@@ -67,7 +67,7 @@ document.write("<h2>+</h2>");
 
 document.write("<br>")
 
-document.write("<h1>Matriz 1:</h1>");
+document.write("<h1>Matriz 2:</h1>");
 document.write("<h2>(números gerados aleatóriamente)</h2>");
 document.write("<br>")
 document.write("<table border=1>");
